@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu May 28 21:59:44 2020
-
-@author: Lenovo
-"""
 
 import pandas as pd
 from sklearn.model_selection import train_test_split
